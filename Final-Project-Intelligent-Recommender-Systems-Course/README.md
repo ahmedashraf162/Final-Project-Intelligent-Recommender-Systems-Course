@@ -34,11 +34,11 @@ AIE425_FinalProject_Group-22-/
 Implements **SVD** and **PCA** for understanding latent factors in user-item rating data.
 
 ### Key Features
-- Manual SVD implementation using power iteration
-- Sensitivity analysis across varying missing data percentages
-- Comparison of mean-filling strategies (item-mean vs. user-mean)
-- Latent factor interpretation and visualization
-- Cold-start user analysis with fold-in method
+- Manual SVD implementation using power iteration.
+- Sensitivity analysis across varying missing data percentages.
+- Comparison of mean-filling strategies (item-mean vs. user-mean).
+- Latent factor interpretation and visualization.
+- Cold-start user analysis with fold-in method.
 
 ### Main Modules
 | File | Description |
